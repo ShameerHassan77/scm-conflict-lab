@@ -1,4 +1,4 @@
 Project Title: Untitled
-Team Members: TBD
+Team Members: Shameer Hassan and Mutahir Hussain
 Course: SCM Lab
 Status: Draft
