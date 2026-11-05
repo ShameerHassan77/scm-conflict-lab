@@ -1,4 +1,5 @@
-Project Title: Student Portal
+
+Project Title: Student Library Portal
 Team Members: Shameer Hassan and Mutahir Hussain
 Course: SCM Lab
 Status: In Progress
